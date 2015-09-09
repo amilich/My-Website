@@ -47,7 +47,8 @@ VAGAS SLIDESHOW SCRIPTS
 $.vegas('slideshow', {
 backgrounds: [
 { src: 'assets/images/1.gif', fade: 1000, delay: 9000 },
-{ src: 'assets/images/3.gif', fade: 1000, delay: 9000 },
+{ src: 'assets/images/3.gif', fade: 1000, delay: 6000 },
+{ src: 'assets/images/5.gif', fade: 1000, delay: 9000 },
 { src: 'assets/images/2.png', fade: 1000, delay: 9000 },
 { src: 'assets/images/4.png', fade: 1000, delay: 9000 },
 { src: 'assets/images/originals/bike1.JPG', fade: 1000, delay: 9000 },
