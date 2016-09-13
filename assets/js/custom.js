@@ -55,6 +55,7 @@ backgrounds: [
 { src: 'assets/images/originals/hud.png', fade: 1000, delay: 9000 },
 { src: 'assets/images/originals/twitterlarge.png', fade: 1000, delay: 9000 },
 { src: 'assets/images/originals/sim512_2.JPG', fade: 1000, delay: 9000 },
+{ src: 'assets/images/rtos_large.png', fade: 1000, delay: 9000 },
 ]
 })('overlay', {
 /** SLIDESHOW OVERLAY IMAGE **/
